@@ -19,7 +19,6 @@ void print_to_98(int n)
 			else if (i == 98)
 			{
 				_putchar(i);
-				_putchar('\n');
 			}
 		}
 	} else if (n >= 98)
@@ -33,7 +32,6 @@ void print_to_98(int n)
 			else if (j == 98)
 			{
 				_putchar(j);
-				_putchar('\n');
 			}
 		}
 	}
